@@ -24,7 +24,7 @@ Nastavení
 Odejít
 Šampionát
 Jednoduchý Závod
-Clockwork Šílenství
+Mechanické Šílenství
 Bojová Aréna
 Jízda Na Čas
 Procvičování
@@ -335,7 +335,7 @@ NOVÁ DODÁVKA AUT!\n(Podívej se na hromadu krabic na\nObrazovce Výběru Auta)
 GRATULACE!\nTRATĚ Z KATEGORIE "%s" JSOU\nNYNÍ DOSTUPNÉ V OBRÁCENÉ VERZI\n(Stiskni DOLŮ na Obrazovce Výběru Tratě)\n
 GRATULACE!\nTRATĚ Z KATEGORIE "%s" JSOU\nNYNÍ DOSTUPNÉ V ZRCADLOVÉ VERZI\n(Stiskni NAHORU na Obrazovce Výběru Tratě)\n
 GRATULACE!\nTRATĚ Z KATEGORIE "%s" JSOU\nNYNÍ DOSTUPNÉ V OBRÁCENÉ ZRCADLOVÉ VERZI\n(Stiskni NAHORU a poté DOLŮ\nna Obrazovce Výběru Tratě)\n
-\VPNOVÝ HERNÍ MÓD!\n\"CLOCKWORK ŠÍLENSTVÍ\"\nBYL ODEMČEN\n
+\VPNOVÝ HERNÍ MÓD!\n\"MECHANICKÉ ŠÍLENSTVÍ\"\nBYL ODEMČEN\n
 \VNGRATULACE!\nPOSBÍRAL JSI VŠECHNY HVĚZDY V ARÉNĚ SKOKŮ\n
 \VSGRATULACE!\nPOSBÍRAL JSI VŠECHNY HVĚZDY V ARÉNĚ SKOKŮ\n
 Stiskni Tlačítko Start
